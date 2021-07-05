@@ -1,0 +1,39 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.main-content {
+    margin: 0px;
+    padding: 0px;
+    background-color: gray;
+    /* background-size: cover; */
+    height: 120vh;
+    width: 100%;
+}
+.img-container {
+    /* margin: 10px; */
+    padding: 20px;
+    padding-right: 35px;
+    padding-left: 43px;
+}
+.image {
+    padding: 10px;
+    height: 250px;
+    width: 250px;
+}
+.vid-container {
+    padding: 30px;
+}
+iframe {
+    padding: 15px;
+}
+.aud-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin : 10px;
+}
+audio {
+    margin: 15px;
+    padding: 5px;
+}
