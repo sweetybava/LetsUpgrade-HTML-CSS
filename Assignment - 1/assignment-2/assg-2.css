@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.content {
+    background-color: gray;
+    height: 100vh;
+    width: 100%;
+}
+.sub-content {
+    /* margin: 10px; */
+    padding: 20px;
+}
+p {
+    padding: 10px;
+}
+.para3 {
+    color: #ffff;
+    font-size: 25px;
+    font-family: serif;
+    text-align: justify;
+    text-decoration:underline;
+}
